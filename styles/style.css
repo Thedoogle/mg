@@ -86,7 +86,7 @@ body {
 .card {
     aspect-ratio: 1;
     /* background-color: #2196f3; */
-    background-image: url("/images/bckgrds/bkg3small.jpg");
+    background-image: url("../images/bckgrds/bkg3small.jpg");
     border-radius: 10px;
     background-size: cover;
     background-position: center;
